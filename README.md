@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diego Osorio (aka @sha16)
-- 👀 I’m interested in Hacking and Offensive Security
+- 👀 I’m interested in Hacking and Offensive Security 🐱‍👤
 - 🌱 I’m currently working with an Offensive Security Team at **Hackmetrix** 🚀🔥
 - 📫 How to reach me: Well... you can practice OSINT for this...
 
