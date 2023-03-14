@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-16&label=Profile%20views&color=0e75b6&style=flat" alt="sha-16" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/sha16_x" target="blank"><img src="https://img.shields.io/twitter/follow/sha16_x?logo=twitter&style=for-the-badge" alt="sha16_x" /></a> </p>
-
 - 🔭 I’m currently working on [Hackmetrix](https://hackmetrix.com)
 
 - 🌱 I’m currently learning **new offensive security techniques to exploit vulnerabilities or gather information!**
