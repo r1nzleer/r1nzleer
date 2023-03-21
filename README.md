@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-16&label=Profile%20views&color=0e75b6&style=flat" alt="sha-16" /> </p>
 
-- 🔭 I’m currently working on [Hackmetrix](https://hackmetrix.com)
+- 🔭 I’m currently working on [Hackmetrix](https://hackmetrix.com).
 
 - 🌱 I’m currently learning **new offensive security techniques to exploit vulnerabilities or gather information!**
 
-- 📝 I regularly write articles on [https://sha-16.github.io/](https://sha-16.github.io/)
+- 📝 I regularly write articles on [https://sha-16.github.io/](https://sha-16.github.io/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
