@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-16&label=Profile%20views&color=0e75b6&style=flat" alt="sha-16" /> </p>
 
-- 🔭 I’m currently working for **[Hackmetrix](https://hackmetrix.com)**.
+- I’m currently working for **[Hackmetrix](https://hackmetrix.com)** 🥂
 
-- 🌱 I’m currently learning **new offensive security techniques to exploit vulnerabilities or gather information!**
+- I’m currently learning **new offensive security techniques on active directory environments, reversing and binary exploitation!** 🐱‍👤
+ 
+- Sometimes I write articles on **[https://sha-16.github.io/](https://sha-16.github.io/)** 📝 
 
-- 📝 Sometimes I write articles on **[https://sha-16.github.io/](https://sha-16.github.io/)**.
-
-- Team: **Drk.exe** 🏴‍☠️.
+- Team: **Drk.exe** 🏴‍☠️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
