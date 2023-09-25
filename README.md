@@ -7,7 +7,7 @@
 
 - I’m currently learning **new offensive security techniques on active directory environments, reversing and binary exploitation!** 🐱‍👤
  
-- Sometimes I write articles on **[https://sha-16.github.io/](https://sha-16.github.io/)** 📝 
+- Sometimes I write articles on **[https://sha16.tech/](https://sha16.tech/)** 📝 
 
 - Team: **Drk.exe** 🏴‍☠️
 
