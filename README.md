@@ -5,7 +5,7 @@
 
 - I’m currently working for **[Hackmetrix](https://hackmetrix.com)** 🥂
 
-- I’m currently learning **new offensive security techniques on active directory environments, reversing and binary exploitation!** 🐱‍👤
+- I’m currently learning **new offensive security techniques on active directory environments!** 🐱‍👤
  
 - Sometimes I write articles on **[https://sha16.tech/](https://sha16.tech/)** 📝 
 
