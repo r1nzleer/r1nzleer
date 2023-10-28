@@ -7,7 +7,7 @@
 
 - I’m currently learning **new offensive security techniques on active directory environments!** 🐱‍👤
  
-- Sometimes I write articles on **[https://sha16.tech/](https://sha16.tech/)** 📝 
+- Sometimes I write articles on ****t 📝 
 
 - Team: **Drk.exe** 🏴‍☠️
 
