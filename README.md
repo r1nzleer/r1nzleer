@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-16&label=Profile%20views&color=0e75b6&style=flat" alt="sha-16" /> </p>
 
-- I’m currently working for ****t 🥂
-
 - I’m currently learning **new offensive security techniques on active directory environments!** 🐱‍👤
  
 - Sometimes I write articles on my **blog**: <a href="https://sha16.tech/">https://sha16.tech/</a> 📝 
