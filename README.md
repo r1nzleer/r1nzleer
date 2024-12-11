@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Diego (a.k.a sha16)</h1>
+<h1 align="center">Hi 👋, I'm Diego (a.k.a anything you want)</h1>
 <h3 align="center">A passionate Offensive Security Engineer from Chile 🐱‍👤</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-16&label=Profile%20views&color=0e75b6&style=flat" alt="sha-16" /> </p>
 
 - I’m currently learning **new offensive security techniques on active directory environments!** 🐱‍👤
  
-- Sometimes I write articles on my **blog**: <a href="https://sha16.tech/">https://sha16.tech/</a> 📝 
+- Sometimes I write articles on my **blog**: <a href="https://sha-16.github.io/">https://sha-16.github.io/</a> 📝 
 
 - Team: **Drk.exe** 🏴‍☠️
 
