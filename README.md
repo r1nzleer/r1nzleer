@@ -6,7 +6,7 @@
  
 - Sometimes I write articles on my **blog**: <a href="https://sha-16.github.io/">https://sha-16.github.io/</a> 📝 
 
-- Team: **Drk.exe** 🏴‍☠️
+- Team: **Drk.exe** 🏴‍☠️ (I love you my fellows)
 
 - Certs: OSCP / eWPTXv2 / eCPPTv2 / eMAPT / eCPPT
 
