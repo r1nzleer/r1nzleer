@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-16&label=Profile%20views&color=0e75b6&style=flat" alt="sha-16" /> </p>
 
-- *A passionate Offensive Security Engineer from Chile, who loves to learn about Active Directory and Red Team Ops...* 🐱‍👤
+*A passionate Offensive Security Engineer from Chile, who loves to learn about Active Directory and Red Team Ops...* 🐱‍👤
  
 - Sometimes I write articles on my **blog**: <a href="https://sha-16.github.io/">https://sha-16.github.io/</a> 📝 
 
