@@ -8,7 +8,7 @@
 
 - Team: **Drk.exe** 🏴‍☠️ (I love you my fellows)
 
-- Certs: OSCP / CWP / eWPTXv2 / eCPPTv2 / eMAPT / eCPPT
+- Certs: CRTO / OSCP / CWP / eWPTXv2 / eCPPTv2 / eMAPT / eCPPT
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
