@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego (a.k.a not your business)</h1>
+<h1 align="center">Hi 👋, I'm Diego (a.k.a Pedro Parker)</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-16&label=Profile%20views&color=0e75b6&style=flat" alt="sha-16" /> </p>
 
