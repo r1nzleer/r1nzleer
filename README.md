@@ -1,5 +1,5 @@
 # 💫 About Me
-A boring guy from Chile who googles well 👨🏻‍💻🇨🇱<br><br>- 📌 I'm working as a Senior Application Security Engineer at Hackmetrix 🚀 <br>- ✨ I love to learn about offensive security in general... 🥷🏻⛩️<br>- 💼 Sometimes I write articles on my blog <a href="https://sha-16.github.io/"> https://r1nzleer.github.io/</a> 📝 (i will back some day)<br>- 🏴‍☠️ Team: Drk.exe (I love you my fellows) ❤️<br>- 🎓 Security Certifications: MCRTA / CRTO / OSCP / CWP / eWPTXv2 / eCPPTv2 / eMAPT / eJPT
+A boring guy from Chile who googles well 👨🏻‍💻🇨🇱<br><br>- 📌 I'm working as a Offensive Security Tech Lead at Hackmetrix 🚀 <br>- ✨ I love to learn about offensive security in general... 🥷🏻⛩️<br>- 💼 Sometimes I write articles on my blog <a href="https://sha-16.github.io/"> https://r1nzleer.github.io/</a> 📝 (i will back some day)<br>- 🏴‍☠️ Team: Drk.exe (I love you my fellows) ❤️<br>- 🎓 Security Certifications: MCRTA / CRTO / OSCP / CWP / eWPTXv2 / eCPPTv2 / eMAPT / eJPT
 
 ## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dosoriod) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/r1nzleer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@sha16) 
